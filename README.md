@@ -10,3 +10,5 @@ Test for docs generator
     &lt;p&gt;For example.&lt;/p&gt;
 &lt;/blockquote&gt;
 </code></pre>
+
+<p>Test</p>
