@@ -1,3 +1,4 @@
+<pre>
 <p>The <em>Transaction Management Service (TMS)</em> provides read-only access to merchant transaction data stored in the Commerce Web Services (CWS) transaction database. TMS eliminates the need for the merchant application to store transaction data locally by providing access to merchant transaction data for transaction reporting purposes, as well as for processing subsequent transactions, such as incremental authorizations, voids, returns, and batch settlement processing.</p>
 <p>Transaction management functionality is supported by the Transaction Management Service (TMS) and corresponding <em>Transaction Management API</em>. The TMS API makes use of both Service Keys and sign-on authentication credentials to ensure safe, secure access to CWS transaction data.</p>
 <p>The integration of the TMS API provides the following benefits:</p>
@@ -150,3 +151,4 @@
 </tr>
 </tbody>
 </table>
+</pre>
